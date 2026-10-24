@@ -67,6 +67,7 @@ Project Links
 
 GitHub Repository: https://github.com/nimcomuxidinaxmed7-cmd/team-member-showcasing
 Figma Wireframe: Figma Design: [Team Member Showcasing – Desktop Wireframe](https://www.figma.com/design/GOlu7sVhz6MYROMYwHCSWZ/Team-Member-Showcasing-%E2%80%93-Desktop-Wireframe?node-id=0-1\&m=dev\&t=l0WONDLDGDeD8cLu-1)
+Live Demo:https://nimcomuxidinaxmed7-cmd.github.io/TEAM-MEMBER-SHOWCASING/
 
 
  What I Learned
